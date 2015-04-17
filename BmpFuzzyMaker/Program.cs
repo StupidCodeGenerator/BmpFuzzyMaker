@@ -32,7 +32,7 @@ namespace BmpFuzzyMaker {
             }
             for (int i = 0; i < img.Width; i++) {
                 for (int j = 0; j < img.Height; j++) {
-                    Color pixel = img.GetPixel(i, j);
+                    Color pixel = img.GetPixel(i, img.Height - j - 1);
                     bmpData[i][j] = pixel.R;
                 }
             }
