@@ -1,0 +1,6 @@
+D:\github\BmpFuzzyMaker\BmpFuzzyMaker\BmpFuzzyMaker\bin\Debug\BmpFuzzyMaker.exe.config
+D:\github\BmpFuzzyMaker\BmpFuzzyMaker\BmpFuzzyMaker\bin\Debug\BmpFuzzyMaker.exe
+D:\github\BmpFuzzyMaker\BmpFuzzyMaker\BmpFuzzyMaker\bin\Debug\BmpFuzzyMaker.pdb
+D:\github\BmpFuzzyMaker\BmpFuzzyMaker\BmpFuzzyMaker\obj\Debug\BmpFuzzyMaker.csprojResolveAssemblyReference.cache
+D:\github\BmpFuzzyMaker\BmpFuzzyMaker\BmpFuzzyMaker\obj\Debug\BmpFuzzyMaker.exe
+D:\github\BmpFuzzyMaker\BmpFuzzyMaker\BmpFuzzyMaker\obj\Debug\BmpFuzzyMaker.pdb
